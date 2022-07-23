@@ -4,3 +4,4 @@
         ci = commit
         st = status
         ru = remote
+        sq = 'commit --amend --all'
