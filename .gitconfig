@@ -3,6 +3,6 @@
         br = branch
         ci = commit
         st = status
-        ru = remote
+        ru = remote update
         sq = commit --amend --all --no-edit
         pf = push -f
