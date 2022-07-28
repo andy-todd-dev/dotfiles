@@ -5,3 +5,4 @@
         st = status
         ru = remote
         sq = commit --amend --all --no-edit
+        pf = push -f
